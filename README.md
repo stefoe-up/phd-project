@@ -1,2 +1,2 @@
 # phd-project
-Work on data, scripts and publications related to my PhD project.
+Assembly of protein complexes in vitro and in vivo. Additional material for my doctoral thesis. 
